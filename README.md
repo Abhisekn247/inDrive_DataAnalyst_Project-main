@@ -77,37 +77,23 @@ This project simulates real-world **inDrive ride-booking data** and includes 20+
 - ⭐ Average Ratings by Vehicle Type  
 - 📆 Monthly Revenue Trend  
 
+## 🚀 How to Use  
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/Abhisekn247/inDrive_DataAnalyst_Project-main.git
+2. Access the Power BI report file and dataset for detailed exploration.  
+3. Use SQL scripts for custom queries on the dataset. 
 ---
-
-## 🖼️ Dashboard Screenshots  
-
----
-
-### 💰 Overall Analysis 
-![Revenue Dashboard](<img width="1157" height="665" alt="image" src="https://github.com/user-attachments/assets/591fd776-b9c1-4667-b6b2-ee5ef3a0351c" />)
-
----
-
-### 🚗 Vehicle Type Analysis  
-![Vehicle Type Analysis](Screenshot%202025-12-02%20234540.png
-)
 
 ---
 
-### 💰 Revenue Analysis  
-![Revenue Dashboard](Screenshot%202025-12-02%20234540.png)
-
+## 📧 **Contact**  
+If you have any questions, suggestions, or would like to collaborate, feel free to reach out:  
+- **Email**: nayakabhisek777@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/abhisek-nayak-170ab436a
 ---
 
-### ❌ Cancellation Analysis  
-![Cancellation Dashboard](Screenshot%202025-12-02%20235223.png)
+### ⭐ **If you found this project useful, don’t forget to star the repository!**  
 
----
-
-### ⭐ Ratings Analysis  
-![Ratings Dashboard](Screenshot%202025-12-02%20235251.png)
-
----
-
-## 🏗️ Project Architecture  
+--- 
 
