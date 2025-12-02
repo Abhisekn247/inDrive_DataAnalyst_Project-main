@@ -2,7 +2,7 @@
 ### 🚖 Ride Analysis for Bengaluru City  
 
 ### 📊 inDrive Dashboard  
-![inDrive Dashboard](<img width="1177" height="675" alt="image" src="https://github.com/user-attachments/assets/c5df3ce3-1cf4-4e03-a65f-6f0ad360471b" />
+(<img width="1177" height="675" alt="image" src="https://github.com/user-attachments/assets/c5df3ce3-1cf4-4e03-a65f-6f0ad360471b" />
 
 )
 
@@ -83,8 +83,14 @@ This project simulates real-world **inDrive ride-booking data** and includes 20+
 
 ---
 
+### 💰 Overall Analysis 
+![Revenue Dashboard](<img width="1157" height="665" alt="image" src="https://github.com/user-attachments/assets/591fd776-b9c1-4667-b6b2-ee5ef3a0351c" />)
+
+---
+
 ### 🚗 Vehicle Type Analysis  
-![Vehicle Type Analysis](Screenshot%202025-12-02%20234404.png)
+![Vehicle Type Analysis](Screenshot%202025-12-02%20234540.png
+)
 
 ---
 
