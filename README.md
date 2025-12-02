@@ -78,7 +78,8 @@ This project simulates real-world **inDrive ride-booking data** and includes 20+
 ## 🖼️ Dashboard Screenshots  
 
 ### 📊 Overall Dashboard  
-![Overall Dashboard](Screenshot%202025-12-02%20234057.png)
+![Overall Dashboard](<img width="1317" height="732" alt="Screenshot 2025-12-02 234057" src="https://github.com/user-attachments/assets/fe6350c7-761a-48eb-a2fb-c4adca006e95" />
+)
 
 ---
 
