@@ -2,9 +2,9 @@
 ### 🚖 Ride Analysis for Bengaluru City  
 
 ### 📊 inDrive Dashboard  
-(<img width="1177" height="675" alt="image" src="https://github.com/user-attachments/assets/c5df3ce3-1cf4-4e03-a65f-6f0ad360471b" />
+<img width="1177" height="675" alt="image" src="https://github.com/user-attachments/assets/c5df3ce3-1cf4-4e03-a65f-6f0ad360471b" />
 
-)
+
 
 Welcome to my **inDrive Data Analyst Project**! This repository contains a complete analysis of **70,000+ ride records** for Bengaluru city over a 1-month period. The project focuses on **booking behavior, cancellations, revenue trends, ride performance, and customer ratings** using **SQL** and **Power BI** to generate meaningful business insights.
 
