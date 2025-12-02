@@ -1,4 +1,4 @@
-# inDrive-dashboard
+# inDrive-dashboard  
 # 📊 inDrive Data Analyst Project  
 ### 🚖 Ride Analysis for Bengaluru City  
 
@@ -36,8 +36,6 @@ This project simulates real-world **inDrive ride-booking data** and includes 20+
 
 ## 🏆 Key Business Metrics (From SQL Analysis)  
 
-Using SQL Views, the following KPIs were generated:  
-
 - ✅ Successful Bookings  
 - 📏 Average Ride Distance by Vehicle Type  
 - ❌ Customer Cancellation Count  
@@ -66,8 +64,6 @@ Using SQL Views, the following KPIs were generated:
 
 ## 📈 Power BI Dashboard Features  
 
-The Power BI dashboard includes:  
-
 - ✅ Total Successful Rides  
 - ❌ Cancellation Breakdown (Customer vs Driver)  
 - 💰 Total Revenue & Avg Booking Value  
@@ -79,9 +75,32 @@ The Power BI dashboard includes:
 
 ---
 
-## 🚀 How to Use This Project  
+## 🖼️ Dashboard Screenshots  
 
-### 1️⃣ Create Database in MySQL  
-```sql
-CREATE DATABASE indrive;
-USE indrive;
+### 📊 Overall Dashboard  
+![Overall Dashboard](Screenshot%202025-12-02%20234057.png)
+
+---
+
+### 🚗 Vehicle Type Analysis  
+![Vehicle Type Analysis](Screenshot%202025-12-02%20234404.png)
+
+---
+
+### 💰 Revenue Analysis  
+![Revenue Dashboard](Screenshot%202025-12-02%20234540.png)
+
+---
+
+### ❌ Cancellation Analysis  
+![Cancellation Dashboard](Screenshot%202025-12-02%20235223.png)
+
+---
+
+### ⭐ Ratings Analysis  
+![Ratings Dashboard](Screenshot%202025-12-02%20235251.png)
+
+---
+
+## 🏗️ Project Architecture  
+
